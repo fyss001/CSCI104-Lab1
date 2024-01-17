@@ -1,1 +1,3 @@
-# Lab 1 Git Practice
+## Hello, world!
+
+This is a README file.
